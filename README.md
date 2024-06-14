@@ -5,4 +5,6 @@ The goal of this was to prove the feasability of using PCBA as well as prove my 
 
 If you want to use this project, it should be noted that this is open source, but I would rather you simply use this as a reference. Putting that much confidence in someone elses work is dangerous, and I cannot guarantee spec with the original.
 
+The only major changes with these boards vs the real deal are the addition of a reset button and usb-c header (something that should be on the original :| )
+
 ![](https://i.imgur.com/w45nKOs.jpeg)
